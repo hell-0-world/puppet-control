@@ -1,0 +1,11 @@
+---
+profile::apache::apache_vhost_servers: {
+  'ademushkin-f9087ac62.mylabserver.com': {
+    port: 80,
+    docroot: '/var/www/docroot2'
+  },
+  'ademushkin-f9087ac62b.mylabserver.com': {
+    port: 80,
+    docroot: '/var/www/docroot2b'
+  }
+}

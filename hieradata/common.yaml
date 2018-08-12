@@ -1,0 +1,7 @@
+---
+profile::base::ntp_server:
+  - 0.pool.ubuntu.ntp.org
+  - 1.pool.ubuntu.ntp.org
+  - 2.pool.ubuntu.ntp.org
+  - 3.pool.ubuntu.ntp.org
+profile::apache::default_vhost: false
