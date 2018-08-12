@@ -18,7 +18,7 @@ mod 'puppetlabs/java',        '1.6.0'
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
 
-mod 'ssh1',
+mod 'ssh',
   :git => 'https://github.com/hell-0-world/random.git',
   :ref => 'master'
 
